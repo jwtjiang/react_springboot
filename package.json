@@ -1,0 +1,50 @@
+{
+  "name": "reactdemo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@antv/data-set": "^0.10.2",
+    "Promise": "^1.0.5",
+    "amap-js": "^1.2.1",
+    "antd": "^3.19.8",
+    "bizcharts": "^3.5.4",
+    "echarts": "^4.2.1",
+    "echarts-for-react": "^2.0.15-beta.0",
+    "jquery": "^3.4.1",
+    "numeral": "^2.0.6",
+    "react": "^16.8.6",
+    "react-amap": "^1.2.8",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "react-router": "^3.2.3",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-websocket": "^2.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "axios": "^0.19.0",
+    "qs": "^6.7.0",
+    "react-sticky": "^6.0.3"
+  }
+}

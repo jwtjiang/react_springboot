@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="528fc05b-63bd-4781-9d41-051423c7bab8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/body/Delivery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/body/EleLose.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/body/EleRota.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/body/Environment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/body/Menus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/body/Poise.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/body/Supply.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/body/Way.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/common/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/Abnormal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/Blocked.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/Defects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/Delivery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/EleLose.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/EleRota.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/Environment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/Generation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/Given.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/Poise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/Supply.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/body/Way.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/BodyTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/chart/Area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/chart/Gauge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/chart/Interval.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/chart/IntervalStack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/chart/IntervalSymmetric.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/chart/Line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/chart/Percent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/chart/Point.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/chart/Polygon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/chart/Schema.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/echarts/ChinaMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/echarts/Country.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/echarts/EcCategory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/common/echarts/Graph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/menu/Menus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/china.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/110100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/120100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/130100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/130200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/130300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/130400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/130500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/130600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/130700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/130800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/130900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/131000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/131100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/140100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/140200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/140300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/140400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/140500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/140600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/140700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/140800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/140900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/141000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/141100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/150100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/150200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/150300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/150400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/150500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/150600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/150700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/150800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/150900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/152200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/152500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/152900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/210100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/210200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/210300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/210400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/210500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/210600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/210700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/210800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/210900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/211000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/211100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/211200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/211300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/211400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/220100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/220200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/220300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/220400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/220500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/220600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/220700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/220800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/222400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/230100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/230200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/230300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/230400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/230500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/230600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/230700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/230800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/230900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/231000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/231100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/231200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/232700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/310100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/310200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/320100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/320200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/320300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/320400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/320500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/320600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/320700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/320800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/320900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/321000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/321100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/321200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/321300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/330100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/330200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/330300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/330400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/330500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/330600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/330700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/330800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/330900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/331000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/331100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/340100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/340200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/340300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/340400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/340500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/340600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/340700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/340800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/341000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/341100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/341200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/341300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/341500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/341600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/341700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/341800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/350100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/350200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/350300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/350400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/350500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/350600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/350700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/350800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/350900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/360100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/360200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/360300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/360400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/360500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/360600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/360700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/360800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/360900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/361000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/361100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/370100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/370200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/370300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/370400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/370500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/370600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/370700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/370800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/370900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/371000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/371100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/371200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/371300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/371400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/371500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/371600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/371700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/410100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/410200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/410300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/410400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/410500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/410600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/410700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/410800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/410900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/411000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/411100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/411200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/411300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/411400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/411500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/411600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/411700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/420100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/420200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/420300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/420500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/420600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/420700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/420800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/420900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/421000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/421100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/421200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/421300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/422800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/429000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/430100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/430200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/430300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/430400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/430500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/430600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/430700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/430800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/430900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/431000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/431100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/431200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/431300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/433100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/440100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/440200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/440300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/440400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/440500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/440600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/440700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/440800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/440900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/441200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/441300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/441400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/441500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/441600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/441700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/441800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/441900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/442000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/445100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/445200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/445300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/450100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/450200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/450300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/450400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/450500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/450600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/450700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/450800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/450900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/451000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/451100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/451200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/451300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/451400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/460100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/460200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/460300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/469000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/500100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/510100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/510300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/510400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/510500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/510600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/510700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/510800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/510900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/511000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/511100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/511300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/511400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/511500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/511600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/511700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/511800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/511900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/512000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/513200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/513300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/513400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/520100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/520200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/520300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/520400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/522200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/522300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/522400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/522600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/522700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/530100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/530300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/530400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/530500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/530600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/530700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/530800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/530900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/532300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/532500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/532600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/532800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/532900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/533100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/533300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/533400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/540100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/542100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/542200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/542300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/542400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/542500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/542600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/610100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/610200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/610300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/610400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/610500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/610600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/610700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/610800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/610900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/611000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/620100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/620200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/620300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/620400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/620500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/620600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/620700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/620800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/620900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/621000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/621100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/621200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/622900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/623000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/630100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/632100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/632200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/632300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/632500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/632600.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/632700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/632800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/640100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/640200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/640300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/640400.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/640500.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/650100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/650200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/652100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/652200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/652300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/652700.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/652800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/652900.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/653000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/653100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/653200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/654000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/654200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/654300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/659000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/710000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/810100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryCouties/820000.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/12.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/13.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/15.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/21.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/22.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/23.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/31.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/32.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/33.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/34.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/35.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/36.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/37.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/41.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/42.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/43.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/44.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/45.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/46.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/50.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/51.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/52.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/53.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/54.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/61.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/62.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/63.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/64.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/65.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/71.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/81.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/json/geometryProvince/82.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../electric-front/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../electric-front/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../electric-front/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../electric-front/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../electric-front/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.gradle/3.3/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.gradle/3.3/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.gradle/3.3/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.gradle/3.3/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.settings/gradle/org.springsource.ide.eclipse.gradle.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/.settings/gradle/org.springsource.ide.eclipse.gradle.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/piif-test/src/main/java/piif/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/piif-test/src/main/java/piif/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/piif-test/src/main/java/piif/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/piif-test/src/main/java/piif/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../guojinfuyuan3/piif-main/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/body/Body.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/body/Abnormal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/body/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/body/Blocked.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/body/Defects.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/RouterUrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/RouterUrl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../power/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/PowerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/comment/controller/CommentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/comment/dao/CommentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/comment/service/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/comment/service/serviceImpl/CommentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/line/controller/LineDetailsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/line/dao/LineDetailsMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/line/service/LineDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/line/service/serviceImpl/LineDetailsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/model/controller/ModelController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/model/dao/ModelMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/model/service/ModelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/model/service/serviceImpl/ModelServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/pojo/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/pojo/CommentExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/pojo/LineDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/pojo/LineDetailsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/pojo/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/pojo/ModelExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/pojo/Report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/pojo/ReportExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/report/controller/ReportController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/report/dao/ReportMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/report/service/ReportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/report/service/serviceImpl/ReportServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/util/CommonUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/util/ExcelUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/java/com/dtdream/util/PDFUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/resources/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/resources/mapper/CommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/resources/mapper/LineDetailsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/resources/mapper/ModelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/main/resources/mapper/ReportMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../power/power/src/test/java/com/dtdream/PowerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../reactdemo/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/body/Blocked.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+              <folding>
+                <element signature="e#11#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="97" column="53" selection-start-line="97" selection-start-column="53" selection-end-line="97" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/common/echarts/EcCategory.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="151" column="22" selection-start-line="151" selection-start-column="22" selection-end-line="151" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/common/BodyTop.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1675">
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-380">
+              <caret line="49" column="67" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/common/echarts/Graph.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="141" column="24" lean-forward="true" selection-start-line="141" selection-start-column="24" selection-end-line="141" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/body/Given.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+              <folding>
+                <element signature="e#11#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/menu/Menus.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="77" column="48" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#166#200#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/body/Poise.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="178" column="32" selection-start-line="178" selection-start-column="32" selection-end-line="178" selection-end-column="32" />
+              <folding>
+                <element signature="e#7#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toggleCollapsed</find>
+      <find>onMess</find>
+      <find>url</find>
+      <find>o</find>
+      <find>onClose</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/common/chart/Line.js" />
+        <option value="$PROJECT_DIR$/src/common/chart/Interval.js" />
+        <option value="$PROJECT_DIR$/src/common/chart/IntervalStack.js" />
+        <option value="$PROJECT_DIR$/src/css/common/common.css" />
+        <option value="$PROJECT_DIR$/src/css/Poise.css" />
+        <option value="$PROJECT_DIR$/src/css/EleLose.css" />
+        <option value="$PROJECT_DIR$/src/common/chart/Percent.js" />
+        <option value="$PROJECT_DIR$/src/css/body/EleLose.css" />
+        <option value="$PROJECT_DIR$/src/common/chart/Point.js" />
+        <option value="$PROJECT_DIR$/src/css/body/Abnormal.css" />
+        <option value="$PROJECT_DIR$/src/common/BodyTop.js" />
+        <option value="$PROJECT_DIR$/src/css/body/Way.css" />
+        <option value="$PROJECT_DIR$/src/js/menu/Menus.js" />
+        <option value="$PROJECT_DIR$/src/css/body/Supply.css" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/Area.js" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/Line.js" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/Interval.js" />
+        <option value="$PROJECT_DIR$/src/css/body/Defects.css" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/Gauge.js" />
+        <option value="$PROJECT_DIR$/src/css/body/Environment.css" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/Polygon.js" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/IntervalSymmetric.js" />
+        <option value="$PROJECT_DIR$/src/css/body/Blocked.css" />
+        <option value="$PROJECT_DIR$/node_modules/echarts/index.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/js/body/Abnormal.js" />
+        <option value="$PROJECT_DIR$/src/js/body/Defects.js" />
+        <option value="$PROJECT_DIR$/src/js/body/EleLose.js" />
+        <option value="$PROJECT_DIR$/src/js/body/EleRota.js" />
+        <option value="$PROJECT_DIR$/src/js/body/Environment.js" />
+        <option value="$PROJECT_DIR$/src/js/body/Generation.js" />
+        <option value="$PROJECT_DIR$/src/js/body/Way.js" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/ChinaMap.js" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/Quxian.js" />
+        <option value="$PROJECT_DIR$/src/js/body/EcCategory.js" />
+        <option value="$PROJECT_DIR$/src/js/body/Given.js" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/Schema.js" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/EcCategory.js" />
+        <option value="$PROJECT_DIR$/src/js/common/chart/Country.js" />
+        <option value="$PROJECT_DIR$/src/js/body/Blocked.js" />
+        <option value="$PROJECT_DIR$/src/css/common/Common.css" />
+        <option value="$PROJECT_DIR$/src/js/body/Supply.js" />
+        <option value="$PROJECT_DIR$/src/css/body/Delivery.css" />
+        <option value="$PROJECT_DIR$/src/router/RouterUrl.js" />
+        <option value="$PROJECT_DIR$/src/js/body/Delivery.js" />
+        <option value="$PROJECT_DIR$/src/js/common/echarts/EcCategory.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-websocket/build/index.js" />
+        <option value="$PROJECT_DIR$/src/Home.js" />
+        <option value="$PROJECT_DIR$/src/js/body/Poise.js" />
+        <option value="$PROJECT_DIR$/src/js/common/echarts/Graph.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="32" />
+    <option name="width" value="1024" />
+    <option name="height" value="686" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="body" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="body" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="echarts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="reactdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reactdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../essr-js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="F:\WorkSpace\kedongdianli\reactdemo\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="E:\WebStorm 2018.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WorkSpace\kedongdianli\reactdemo\src\js\common\echarts" />
+      <recent name="F:\WorkSpace\kedongdianli\reactdemo\src\js\common\chart" />
+      <recent name="F:\WorkSpace\kedongdianli\reactdemo\src\js\common" />
+      <recent name="F:\WorkSpace\kedongdianli\reactdemo\src\js" />
+      <recent name="F:\WorkSpace\kedongdianli\reactdemo\src\js\body" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WorkSpace\kedongdianli\reactdemo\src\json" />
+      <recent name="F:\WorkSpace\kedongdianli\reactdemo\src\image" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="528fc05b-63bd-4781-9d41-051423c7bab8" name="Default Changelist" comment="" />
+      <created>1561453527712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561453527712</updated>
+      <workItem from="1561453531429" duration="1983000" />
+      <workItem from="1561510461873" duration="6338000" />
+      <workItem from="1561597130135" duration="781000" />
+      <workItem from="1561598499715" duration="25417000" />
+      <workItem from="1562205043544" duration="35417000" />
+      <workItem from="1562545626847" duration="75007000" />
+      <workItem from="1563149316536" duration="30949000" />
+      <workItem from="1563756181268" duration="25894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201786000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.299509" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32851985" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" type="WINDOWED" weight="0.32911393" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32911393" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32911393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/js/body/Way.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/body/Environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#9#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/body/Generation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/qs/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/Abnormal.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/Blocked.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/Defects.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/EleLose.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/EleRota.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/Environment.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/Menus.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/Poise.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/Way.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-269" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/Supply.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/common/Common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/body/Delivery.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/RouterUrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="75" selection-start-line="34" selection-start-column="75" selection-end-line="34" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/lib/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/body/Delivery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="47" column="27" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <element signature="e#7#33#0" expanded="true" />
+            <element signature="e#205#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/chart/Schema.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1843">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/chart/Polygon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="e#51#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/chart/Point.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/chart/Percent.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/chart/Line.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/chart/IntervalSymmetric.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/chart/IntervalStack.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/chart/Area.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1083">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#17#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/chart/Gauge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1271">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+          <folding>
+            <element signature="e#48#74#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/echarts/lib/visual/VisualMapping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/chart/Interval.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/body/Supply.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
+          <folding>
+            <element signature="e#7#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/echarts/ChinaMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/echarts/Country.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="16186" column="4" selection-start-line="16186" selection-start-column="4" selection-end-line="16186" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/lib/table/interface.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="128" column="12" selection-start-line="128" selection-start-column="12" selection-end-line="128" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-websocket/build/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="122" column="12" selection-start-line="122" selection-start-column="12" selection-end-line="122" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/lib/notification/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/body/Abnormal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+          <folding>
+            <element signature="e#7#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="49" column="67" selection-start-line="49" selection-start-column="67" selection-end-line="49" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/BodyTop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1675">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/menu/Menus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="77" column="48" selection-start-line="77" selection-start-column="40" selection-end-line="77" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#166#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/body/Poise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="178" column="32" selection-start-line="178" selection-start-column="32" selection-end-line="178" selection-end-column="32" />
+          <folding>
+            <element signature="e#7#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/body/Given.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="e#11#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/body/Blocked.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+          <folding>
+            <element signature="e#11#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/echarts/Graph.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="141" column="24" lean-forward="true" selection-start-line="141" selection-start-column="24" selection-end-line="141" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/echarts-for-react/lib/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common/echarts/EcCategory.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="151" column="22" selection-start-line="151" selection-start-column="22" selection-end-line="151" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="97" column="53" selection-start-line="97" selection-start-column="53" selection-end-line="97" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
